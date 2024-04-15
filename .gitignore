@@ -1,0 +1,6 @@
+.bsp
+.idea
+target
+*/target
+*.class
+src/main/scala/Day1.scala
